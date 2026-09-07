@@ -48,7 +48,7 @@ All responses are wrapped in a standard { "data": ... } JSON envelope.
 
 **GET /api/regions/national-capital-region/locations/makati/barangays**
 
-`json
+```json
 {
   "data": {
     "name": "Makati",
@@ -68,20 +68,20 @@ All responses are wrapped in a standard { "data": ... } JSON envelope.
     ]
   }
 }
-`
+```
 
 ## Error Handling
 
 Errors return a consistent JSON payload along with appropriate HTTP status codes (e.g., 404 Not Found, 429 Too Many Requests).
 
-`json
+```json
 {
   "error": {
     "code": "RATE_LIMITED",
     "message": "Too many requests. Please try again later."
   }
 }
-`
+```
 
 ## Development
 
@@ -91,13 +91,13 @@ Errors return a consistent JSON payload along with appropriate HTTP status codes
 
 ### Setup & Run
 1. Install dependencies:
-   \\\ash
+```
    pnpm install
-   \\\
+```
 2. Start the local development server (Wrangler/Miniflare):
-   \\\ash
+```
    pnpm dev
-   \\\
+```
 
 ### Scripts
 - pnpm build: Run type checks and compile the Worker.
