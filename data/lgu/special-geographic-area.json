@@ -1,0 +1,29 @@
+{
+  "municipalities": [
+    {
+      "municipality": "Kadayangan"
+    },
+    {
+      "municipality": "Kapalawan"
+    },
+    {
+      "municipality": "Ligawasan"
+    },
+    {
+      "municipality": "Malidegao"
+    },
+    {
+      "municipality": "Nabalawag"
+    },
+    {
+      "municipality": "Old Kaabakan"
+    },
+    {
+      "municipality": "Pahamuddin"
+    },
+    {
+      "municipality": "Tugunan"
+    }
+  ],
+  "slug": "special-geographic-area"
+}

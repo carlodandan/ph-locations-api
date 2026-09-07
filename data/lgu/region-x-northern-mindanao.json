@@ -1,0 +1,401 @@
+{
+  "provinces": [
+    {
+      "province": "Bukidnon",
+      "cities": [
+        {
+          "city": "Malaybalay"
+        },
+        {
+          "city": "Valencia"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Baungon",
+          "zip_code": "8707"
+        },
+        {
+          "municipality": "Cabanglasan",
+          "zip_code": "8723"
+        },
+        {
+          "municipality": "Damulog",
+          "zip_code": "8721"
+        },
+        {
+          "municipality": "Dangcagan",
+          "zip_code": "8719"
+        },
+        {
+          "municipality": "Don Carlos",
+          "zip_code": "8712"
+        },
+        {
+          "municipality": "Impasug-ong",
+          "zip_code": "8702"
+        },
+        {
+          "municipality": "Kadingilan",
+          "zip_code": "8713"
+        },
+        {
+          "municipality": "Kalilangan",
+          "zip_code": "8718"
+        },
+        {
+          "municipality": "Kibawe",
+          "zip_code": "8720"
+        },
+        {
+          "municipality": "Kitaotao",
+          "zip_code": "8716"
+        },
+        {
+          "municipality": "Lantapan",
+          "zip_code": "8722"
+        },
+        {
+          "municipality": "Libona",
+          "zip_code": "8706"
+        },
+        {
+          "municipality": "Malitbog",
+          "zip_code": "8704"
+        },
+        {
+          "municipality": "Manolo Fortich",
+          "zip_code": "8703"
+        },
+        {
+          "municipality": "Maramag",
+          "zip_code": "8714"
+        },
+        {
+          "municipality": "Pangantucan",
+          "zip_code": "8717"
+        },
+        {
+          "municipality": "Quezon",
+          "zip_code": "8715"
+        },
+        {
+          "municipality": "San Fernando",
+          "zip_code": "8711"
+        },
+        {
+          "municipality": "Sumilao",
+          "zip_code": "8701"
+        },
+        {
+          "municipality": "Talakag",
+          "zip_code": "8708"
+        }
+      ]
+    },
+    {
+      "province": "Camiguin",
+      "municipalities": [
+        {
+          "municipality": "Catarman",
+          "zip_code": "9104"
+        },
+        {
+          "municipality": "Guinsiliban",
+          "zip_code": "9102"
+        },
+        {
+          "municipality": "Mahinog",
+          "zip_code": "9101"
+        },
+        {
+          "municipality": "Mambajao",
+          "zip_code": "9100"
+        },
+        {
+          "municipality": "Sagay",
+          "zip_code": "9103"
+        }
+      ]
+    },
+    {
+      "province": "Lanao del Norte",
+      "cities": [
+        {
+          "city": "Iligan"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Bacolod",
+          "zip_code": "9205"
+        },
+        {
+          "municipality": "Baloi",
+          "zip_code": "9217"
+        },
+        {
+          "municipality": "Baroy",
+          "zip_code": "9210"
+        },
+        {
+          "municipality": "Kapatagan",
+          "zip_code": "9214"
+        },
+        {
+          "municipality": "Kauswagan",
+          "zip_code": "9202"
+        },
+        {
+          "municipality": "Kolambugan",
+          "zip_code": "9207"
+        },
+        {
+          "municipality": "Lala",
+          "zip_code": "9211"
+        },
+        {
+          "municipality": "Linamon",
+          "zip_code": "9201"
+        },
+        {
+          "municipality": "Magsaysay",
+          "zip_code": "9221"
+        },
+        {
+          "municipality": "Maigo",
+          "zip_code": "9206"
+        },
+        {
+          "municipality": "Matungao",
+          "zip_code": "9203"
+        },
+        {
+          "municipality": "Munai",
+          "zip_code": "9219"
+        },
+        {
+          "municipality": "Nunungan",
+          "zip_code": "9216"
+        },
+        {
+          "municipality": "Pantao Ragat",
+          "zip_code": "9208"
+        },
+        {
+          "municipality": "Pantar",
+          "zip_code": "9218"
+        },
+        {
+          "municipality": "Poona Piagapo",
+          "zip_code": "9204"
+        },
+        {
+          "municipality": "Salvador",
+          "zip_code": "9212"
+        },
+        {
+          "municipality": "Sapad",
+          "zip_code": "9213"
+        },
+        {
+          "municipality": "Sultan Naga Dimaporo",
+          "zip_code": "9215"
+        },
+        {
+          "municipality": "Tagoloan",
+          "zip_code": "9222"
+        },
+        {
+          "municipality": "Tangcal",
+          "zip_code": "9220"
+        },
+        {
+          "municipality": "Tubod",
+          "zip_code": "9209"
+        }
+      ]
+    },
+    {
+      "province": "Misamis Occidental",
+      "cities": [
+        {
+          "city": "Oroquieta"
+        },
+        {
+          "city": "Ozamiz"
+        },
+        {
+          "city": "Tangub"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Aloran",
+          "zip_code": "7206"
+        },
+        {
+          "municipality": "Baliangao",
+          "zip_code": "7211"
+        },
+        {
+          "municipality": "Bonifacio",
+          "zip_code": "7215"
+        },
+        {
+          "municipality": "Calamba",
+          "zip_code": "7210"
+        },
+        {
+          "municipality": "Clarin",
+          "zip_code": "7201"
+        },
+        {
+          "municipality": "Concepcion",
+          "zip_code": "7213"
+        },
+        {
+          "municipality": "Don Victoriano Chiongbian",
+          "zip_code": "7200"
+        },
+        {
+          "municipality": "Jimenez",
+          "zip_code": "7204"
+        },
+        {
+          "municipality": "Lopez Jaena",
+          "zip_code": "7208"
+        },
+        {
+          "municipality": "Panaon",
+          "zip_code": "7205"
+        },
+        {
+          "municipality": "Plaridel",
+          "zip_code": "7209"
+        },
+        {
+          "municipality": "Sapang Dalaga",
+          "zip_code": "7212"
+        },
+        {
+          "municipality": "Sinacaban",
+          "zip_code": "7203"
+        },
+        {
+          "municipality": "Tudela",
+          "zip_code": "7202"
+        }
+      ]
+    },
+    {
+      "province": "Misamis Oriental",
+      "cities": [
+        {
+          "city": "Cagayan de Oro"
+        },
+        {
+          "city": "El Salvador"
+        },
+        {
+          "city": "Gingoog"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Alubijid",
+          "zip_code": "9018"
+        },
+        {
+          "municipality": "Balingasag",
+          "zip_code": "9005"
+        },
+        {
+          "municipality": "Balingoan",
+          "zip_code": "9011"
+        },
+        {
+          "municipality": "Binuangan",
+          "zip_code": "9008"
+        },
+        {
+          "municipality": "Claveria",
+          "zip_code": "9004"
+        },
+        {
+          "municipality": "Gitagum",
+          "zip_code": "9020"
+        },
+        {
+          "municipality": "Initao",
+          "zip_code": "9022"
+        },
+        {
+          "municipality": "Jasaan",
+          "zip_code": "9003"
+        },
+        {
+          "municipality": "Kinoguitan",
+          "zip_code": "9010"
+        },
+        {
+          "municipality": "Lagonglong",
+          "zip_code": "9006"
+        },
+        {
+          "municipality": "Laguindingan",
+          "zip_code": "9019"
+        },
+        {
+          "municipality": "Libertad",
+          "zip_code": "9021"
+        },
+        {
+          "municipality": "Lugait",
+          "zip_code": "9025"
+        },
+        {
+          "municipality": "Magsaysay",
+          "zip_code": "9015"
+        },
+        {
+          "municipality": "Manticao",
+          "zip_code": "9024"
+        },
+        {
+          "municipality": "Medina",
+          "zip_code": "9013"
+        },
+        {
+          "municipality": "Naawan",
+          "zip_code": "9023"
+        },
+        {
+          "municipality": "Opol",
+          "zip_code": "9016"
+        },
+        {
+          "municipality": "Salay",
+          "zip_code": "9007"
+        },
+        {
+          "municipality": "Sugbongcogon",
+          "zip_code": "9009"
+        },
+        {
+          "municipality": "Tagoloan",
+          "zip_code": "9001"
+        },
+        {
+          "municipality": "Talisayan",
+          "zip_code": "9012"
+        },
+        {
+          "municipality": "Villanueva",
+          "zip_code": "9002"
+        }
+      ]
+    }
+  ],
+  "slug": "region-x-northern-mindanao"
+}

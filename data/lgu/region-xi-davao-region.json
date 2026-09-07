@@ -1,0 +1,222 @@
+{
+  "provinces": [
+    {
+      "province": "Davao de Oro",
+      "municipalities": [
+        {
+          "municipality": "Compostela",
+          "zip_code": "8803"
+        },
+        {
+          "municipality": "Laak",
+          "zip_code": "8810"
+        },
+        {
+          "municipality": "Mabini",
+          "zip_code": "8807"
+        },
+        {
+          "municipality": "Maco",
+          "zip_code": "8806"
+        },
+        {
+          "municipality": "Maragusan",
+          "zip_code": "8808"
+        },
+        {
+          "municipality": "Mawab",
+          "zip_code": "8802"
+        },
+        {
+          "municipality": "Monkayo",
+          "zip_code": "8805"
+        },
+        {
+          "municipality": "Montevista",
+          "zip_code": "8801"
+        },
+        {
+          "municipality": "Nabunturan",
+          "zip_code": "8800"
+        },
+        {
+          "municipality": "New Bataan",
+          "zip_code": "8804"
+        },
+        {
+          "municipality": "Pantukan",
+          "zip_code": "8809"
+        }
+      ]
+    },
+    {
+      "province": "Davao del Norte",
+      "cities": [
+        {
+          "city": "Island Garden City of Samal"
+        },
+        {
+          "city": "Panabo"
+        },
+        {
+          "city": "Tagum"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Asuncion",
+          "zip_code": "8102"
+        },
+        {
+          "municipality": "Braulio E. Dujali",
+          "zip_code": "8100"
+        },
+        {
+          "municipality": "Carmen",
+          "zip_code": "8101"
+        },
+        {
+          "municipality": "Kapalong",
+          "zip_code": "8113"
+        },
+        {
+          "municipality": "New Corella",
+          "zip_code": "8104"
+        },
+        {
+          "municipality": "San Isidro",
+          "zip_code": "8121"
+        },
+        {
+          "municipality": "Santo Tomas",
+          "zip_code": "8112"
+        },
+        {
+          "municipality": "Talaingod",
+          "zip_code": "8107"
+        }
+      ]
+    },
+    {
+      "province": "Davao del Sur",
+      "cities": [
+        {
+          "city": "Davao City"
+        },
+        {
+          "city": "Digos"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Bansalan",
+          "zip_code": "8005"
+        },
+        {
+          "municipality": "Hagonoy",
+          "zip_code": "8006"
+        },
+        {
+          "municipality": "Kiblawan",
+          "zip_code": "8008"
+        },
+        {
+          "municipality": "Malalag",
+          "zip_code": "8010"
+        },
+        {
+          "municipality": "Matanao",
+          "zip_code": "8003"
+        },
+        {
+          "municipality": "Padada",
+          "zip_code": "8007"
+        },
+        {
+          "municipality": "Santa Cruz",
+          "zip_code": "8001"
+        },
+        {
+          "municipality": "Sulop",
+          "zip_code": "8009"
+        }
+      ]
+    },
+    {
+      "province": "Davao Occidental",
+      "municipalities": [
+        {
+          "municipality": "Don Marcelino",
+          "zip_code": "8013"
+        },
+        {
+          "municipality": "Jose Abad Santos",
+          "zip_code": "8014"
+        },
+        {
+          "municipality": "Malita",
+          "zip_code": "8012"
+        },
+        {
+          "municipality": "Santa Maria",
+          "zip_code": "8011"
+        },
+        {
+          "municipality": "Sarangani",
+          "zip_code": "8015"
+        }
+      ]
+    },
+    {
+      "province": "Davao Oriental",
+      "cities": [
+        {
+          "city": "Mati"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Baganga",
+          "zip_code": "8204"
+        },
+        {
+          "municipality": "Banaybanay",
+          "zip_code": "8208"
+        },
+        {
+          "municipality": "Boston",
+          "zip_code": "8206"
+        },
+        {
+          "municipality": "Caraga",
+          "zip_code": "8203"
+        },
+        {
+          "municipality": "Cateel",
+          "zip_code": "8205"
+        },
+        {
+          "municipality": "Governor Generoso",
+          "zip_code": "8210"
+        },
+        {
+          "municipality": "Lupon",
+          "zip_code": "8207"
+        },
+        {
+          "municipality": "Manay",
+          "zip_code": "8202"
+        },
+        {
+          "municipality": "San Isidro",
+          "zip_code": "8209"
+        },
+        {
+          "municipality": "Tarragona",
+          "zip_code": "8201"
+        }
+      ]
+    }
+  ],
+  "slug": "region-xi-davao-region"
+}

@@ -1,0 +1,351 @@
+{
+  "provinces": [
+    {
+      "province": "Benguet",
+      "municipalities": [
+        {
+          "municipality": "Baguio"
+        }
+      ]
+    },
+    {
+      "province": "Kalinga",
+      "municipalities": [
+        {
+          "municipality": "Tabuk"
+        }
+      ]
+    },
+    {
+      "province": "ABRA PROVINCE",
+      "municipalities": [
+        {
+          "municipality": "Bangued",
+          "zip_code": "2800"
+        },
+        {
+          "municipality": "Boliney",
+          "zip_code": "2815"
+        },
+        {
+          "municipality": "Bucay",
+          "zip_code": "2805"
+        },
+        {
+          "municipality": "Bucloc",
+          "zip_code": "2817"
+        },
+        {
+          "municipality": "Daguioman",
+          "zip_code": "2816"
+        },
+        {
+          "municipality": "Danglas",
+          "zip_code": "2825"
+        },
+        {
+          "municipality": "Dolores",
+          "zip_code": "2801"
+        },
+        {
+          "municipality": "La Paz",
+          "zip_code": "2826"
+        },
+        {
+          "municipality": "Lacub",
+          "zip_code": "2821"
+        },
+        {
+          "municipality": "Lagangilang",
+          "zip_code": "2802"
+        },
+        {
+          "municipality": "Lagayan",
+          "zip_code": "2824"
+        },
+        {
+          "municipality": "Langiden",
+          "zip_code": "2807"
+        },
+        {
+          "municipality": "Licuan-Baay",
+          "zip_code": "2819"
+        },
+        {
+          "municipality": "Luba",
+          "zip_code": "2813"
+        },
+        {
+          "municipality": "Malibcong",
+          "zip_code": "2820"
+        },
+        {
+          "municipality": "Manabo",
+          "zip_code": "2810"
+        },
+        {
+          "municipality": "Peñarrubia",
+          "zip_code": "2804"
+        },
+        {
+          "municipality": "Pidigan",
+          "zip_code": "2806"
+        },
+        {
+          "municipality": "Pilar",
+          "zip_code": "2812"
+        },
+        {
+          "municipality": "Sallapadan",
+          "zip_code": "2818"
+        },
+        {
+          "municipality": "San Isidro",
+          "zip_code": "2809"
+        },
+        {
+          "municipality": "San Juan",
+          "zip_code": "2823"
+        },
+        {
+          "municipality": "San Quintin",
+          "zip_code": "2808"
+        },
+        {
+          "municipality": "Tayum",
+          "zip_code": "2803"
+        },
+        {
+          "municipality": "Tineg",
+          "zip_code": "2822"
+        },
+        {
+          "municipality": "Tubo",
+          "zip_code": "2814"
+        },
+        {
+          "municipality": "Villaviciosa",
+          "zip_code": "2811"
+        }
+      ]
+    },
+    {
+      "province": "APAYAO PROVINCE",
+      "municipalities": [
+        {
+          "municipality": "Calanasan",
+          "zip_code": "3814"
+        },
+        {
+          "municipality": "Conner",
+          "zip_code": "3807"
+        },
+        {
+          "municipality": "Flora",
+          "zip_code": "3810"
+        },
+        {
+          "municipality": "Kabugao",
+          "zip_code": "3809"
+        },
+        {
+          "municipality": "Luna",
+          "zip_code": "3813"
+        },
+        {
+          "municipality": "Pudtol",
+          "zip_code": "3812"
+        },
+        {
+          "municipality": "Santa Marcela",
+          "zip_code": "3811"
+        }
+      ]
+    },
+    {
+      "province": "BENGUET PROVINCE",
+      "municipalities": [
+        {
+          "municipality": "Atok",
+          "zip_code": "2612"
+        },
+        {
+          "municipality": "Bakun",
+          "zip_code": "2610"
+        },
+        {
+          "municipality": "Bokod",
+          "zip_code": "2605"
+        },
+        {
+          "municipality": "Buguias",
+          "zip_code": "2607"
+        },
+        {
+          "municipality": "Itogon",
+          "zip_code": "2604"
+        },
+        {
+          "municipality": "Kabayan",
+          "zip_code": "2606"
+        },
+        {
+          "municipality": "Kapangan",
+          "zip_code": "2613"
+        },
+        {
+          "municipality": "Kibungan",
+          "zip_code": "2611"
+        },
+        {
+          "municipality": "La Trinidad",
+          "zip_code": "2601"
+        },
+        {
+          "municipality": "Mankayan",
+          "zip_code": "2608"
+        },
+        {
+          "municipality": "Sablan",
+          "zip_code": "2614"
+        },
+        {
+          "municipality": "Tuba",
+          "zip_code": "2603"
+        },
+        {
+          "municipality": "Tublay",
+          "zip_code": "2615"
+        }
+      ]
+    },
+    {
+      "province": "IFUGAO PROVINCE",
+      "municipalities": [
+        {
+          "municipality": "Aguinaldo",
+          "zip_code": "3606"
+        },
+        {
+          "municipality": "Alfonso Lista",
+          "zip_code": "3608"
+        },
+        {
+          "municipality": "Asipulo",
+          "zip_code": "3610"
+        },
+        {
+          "municipality": "Banaue",
+          "zip_code": "3601"
+        },
+        {
+          "municipality": "Hingyon",
+          "zip_code": "3607"
+        },
+        {
+          "municipality": "Hungduan",
+          "zip_code": "3603"
+        },
+        {
+          "municipality": "Kiangan",
+          "zip_code": "3604"
+        },
+        {
+          "municipality": "Lagawe",
+          "zip_code": "3600"
+        },
+        {
+          "municipality": "Lamut",
+          "zip_code": "3605"
+        },
+        {
+          "municipality": "Mayoyao",
+          "zip_code": "3602"
+        },
+        {
+          "municipality": "Tinoc",
+          "zip_code": "3609"
+        }
+      ]
+    },
+    {
+      "province": "KALINGA PROVINCE",
+      "municipalities": [
+        {
+          "municipality": "Balbalan",
+          "zip_code": "3801"
+        },
+        {
+          "municipality": "Lubuagan",
+          "zip_code": "3802"
+        },
+        {
+          "municipality": "Pasil",
+          "zip_code": "3803"
+        },
+        {
+          "municipality": "Pinukpok",
+          "zip_code": "3806"
+        },
+        {
+          "municipality": "Rizal",
+          "zip_code": "3808"
+        },
+        {
+          "municipality": "Tanudan",
+          "zip_code": "3805"
+        },
+        {
+          "municipality": "Tinglayan",
+          "zip_code": "3804"
+        }
+      ]
+    },
+    {
+      "province": "MOUNTAIN PROVINCE",
+      "municipalities": [
+        {
+          "municipality": "Barlig",
+          "zip_code": "2623"
+        },
+        {
+          "municipality": "Bauko",
+          "zip_code": "2621"
+        },
+        {
+          "municipality": "Besao",
+          "zip_code": "2618"
+        },
+        {
+          "municipality": "Bontoc",
+          "zip_code": "2616"
+        },
+        {
+          "municipality": "Natonin",
+          "zip_code": "2624"
+        },
+        {
+          "municipality": "Paracelis",
+          "zip_code": "2625"
+        },
+        {
+          "municipality": "Sabangan",
+          "zip_code": "2622"
+        },
+        {
+          "municipality": "Sadanga",
+          "zip_code": "2617"
+        },
+        {
+          "municipality": "Sagada",
+          "zip_code": "2619"
+        },
+        {
+          "municipality": "Tadian",
+          "zip_code": "2620"
+        }
+      ]
+    }
+  ],
+  "slug": "cordillera-administrative-region"
+}

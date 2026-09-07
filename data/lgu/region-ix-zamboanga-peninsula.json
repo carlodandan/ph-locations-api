@@ -1,0 +1,442 @@
+{
+  "provinces": [
+    {
+      "province": "Basilan",
+      "cities": [
+        {
+          "city": "Isabela"
+        }
+      ]
+    },
+    {
+      "province": "Zamboanga del Norte",
+      "cities": [
+        {
+          "city": "Dapitan"
+        },
+        {
+          "city": "Dipolog"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Baliguian",
+          "zip_code": "7123"
+        },
+        {
+          "municipality": "Godod",
+          "zip_code": "7126"
+        },
+        {
+          "municipality": "Gutalac",
+          "zip_code": "7118"
+        },
+        {
+          "municipality": "Jose Dalman",
+          "zip_code": "7111"
+        },
+        {
+          "municipality": "Kalawit",
+          "zip_code": "7124"
+        },
+        {
+          "municipality": "Katipunan",
+          "zip_code": "7109"
+        },
+        {
+          "municipality": "La Libertad",
+          "zip_code": "7119"
+        },
+        {
+          "municipality": "Labason",
+          "zip_code": "7117"
+        },
+        {
+          "municipality": "Leon T. Postigo",
+          "zip_code": "7125"
+        },
+        {
+          "municipality": "Liloy",
+          "zip_code": "7115"
+        },
+        {
+          "municipality": "Manukan",
+          "zip_code": "7110"
+        },
+        {
+          "municipality": "Mutia",
+          "zip_code": "7107"
+        },
+        {
+          "municipality": "Piñan",
+          "zip_code": "7105"
+        },
+        {
+          "municipality": "Polanco",
+          "zip_code": "7106"
+        },
+        {
+          "municipality": "President Manuel A. Roxas",
+          "zip_code": "7102"
+        },
+        {
+          "municipality": "Rizal",
+          "zip_code": "7104"
+        },
+        {
+          "municipality": "Salug",
+          "zip_code": "7114"
+        },
+        {
+          "municipality": "Sergio Osmeña Sr.",
+          "zip_code": "7108"
+        },
+        {
+          "municipality": "Siayan",
+          "zip_code": "7113"
+        },
+        {
+          "municipality": "Sibuco",
+          "zip_code": "7122"
+        },
+        {
+          "municipality": "Sibutad",
+          "zip_code": "7103"
+        },
+        {
+          "municipality": "Sindangan",
+          "zip_code": "7112"
+        },
+        {
+          "municipality": "Siocon",
+          "zip_code": "7120"
+        },
+        {
+          "municipality": "Sirawai",
+          "zip_code": "7121"
+        },
+        {
+          "municipality": "Tampilisan",
+          "zip_code": "7116"
+        },
+        {
+          "municipality": "Titay",
+          "zip_code": "7003"
+        },
+        {
+          "municipality": "Tungawan",
+          "zip_code": "7018"
+        }
+      ]
+    },
+    {
+      "province": "Zamboanga del Sur",
+      "cities": [
+        {
+          "city": "Pagadian"
+        },
+        {
+          "city": "Zamboanga"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Aurora",
+          "zip_code": "7020"
+        },
+        {
+          "municipality": "Bayog",
+          "zip_code": "7011"
+        },
+        {
+          "municipality": "Dimataling",
+          "zip_code": "7032"
+        },
+        {
+          "municipality": "Dinas",
+          "zip_code": "7030"
+        },
+        {
+          "municipality": "Dumalinao",
+          "zip_code": "7015"
+        },
+        {
+          "municipality": "Dumingag",
+          "zip_code": "7028"
+        },
+        {
+          "municipality": "Guipos",
+          "zip_code": "7042"
+        },
+        {
+          "municipality": "Josefina",
+          "zip_code": "7027"
+        },
+        {
+          "municipality": "Kumalarang",
+          "zip_code": "7013"
+        },
+        {
+          "municipality": "Labangan",
+          "zip_code": "7017"
+        },
+        {
+          "municipality": "Lakewood",
+          "zip_code": "7014"
+        },
+        {
+          "municipality": "Lapuyan",
+          "zip_code": "7037"
+        },
+        {
+          "municipality": "Mahayag",
+          "zip_code": "7026"
+        },
+        {
+          "municipality": "Margosatubig",
+          "zip_code": "7035"
+        },
+        {
+          "municipality": "Midsalip",
+          "zip_code": "7021"
+        },
+        {
+          "municipality": "Molave",
+          "zip_code": "7023"
+        },
+        {
+          "municipality": "Pitogo",
+          "zip_code": "7033"
+        },
+        {
+          "municipality": "Ramon Magsaysay",
+          "zip_code": "7024"
+        },
+        {
+          "municipality": "San Miguel",
+          "zip_code": "7029"
+        },
+        {
+          "municipality": "San Pablo",
+          "zip_code": "7031"
+        },
+        {
+          "municipality": "Sominot",
+          "zip_code": "7022"
+        },
+        {
+          "municipality": "Tabina",
+          "zip_code": "7034"
+        },
+        {
+          "municipality": "Tambulig",
+          "zip_code": "7025"
+        },
+        {
+          "municipality": "Tigbao",
+          "zip_code": "7043"
+        },
+        {
+          "municipality": "Tukuran",
+          "zip_code": "7019"
+        },
+        {
+          "municipality": "Vincenzo A. Sagun",
+          "zip_code": "7036"
+        }
+      ]
+    },
+    {
+      "province": "Zamboanga Sibugay",
+      "municipalities": [
+        {
+          "municipality": "Alicia",
+          "zip_code": "7040"
+        },
+        {
+          "municipality": "Buug",
+          "zip_code": "7009"
+        },
+        {
+          "municipality": "Diplahan",
+          "zip_code": "7039"
+        },
+        {
+          "municipality": "Imelda",
+          "zip_code": "7007"
+        },
+        {
+          "municipality": "Ipil",
+          "zip_code": "7001"
+        },
+        {
+          "municipality": "Kabasalan",
+          "zip_code": "7005"
+        },
+        {
+          "municipality": "Mabuhay",
+          "zip_code": "7010"
+        },
+        {
+          "municipality": "Malangas",
+          "zip_code": "7038"
+        },
+        {
+          "municipality": "Naga",
+          "zip_code": "7004"
+        },
+        {
+          "municipality": "Olutanga",
+          "zip_code": "7041"
+        },
+        {
+          "municipality": "Payao",
+          "zip_code": "7008"
+        },
+        {
+          "municipality": "Roseller Lim",
+          "zip_code": "7002"
+        },
+        {
+          "municipality": "Siay",
+          "zip_code": "7006"
+        },
+        {
+          "municipality": "Talusan",
+          "zip_code": "7012"
+        },
+        {
+          "municipality": "Hadji Panglima Tahil",
+          "zip_code": "7413"
+        },
+        {
+          "municipality": "Indanan",
+          "zip_code": "7407"
+        }
+      ]
+    },
+    {
+      "province": "Sulu",
+      "municipalities": [
+        {
+          "municipality": "Banguingui",
+          "zip_code": "7406"
+        },
+        {
+          "municipality": "Jolo",
+          "zip_code": "7400"
+        },
+        {
+          "municipality": "Kalingalan Caluang",
+          "zip_code": "7416"
+        },
+        {
+          "municipality": "Lugus",
+          "zip_code": "7411"
+        },
+        {
+          "municipality": "Luuk",
+          "zip_code": "7404"
+        },
+        {
+          "municipality": "Maimbung",
+          "zip_code": "7409"
+        },
+        {
+          "municipality": "Omar",
+          "zip_code": "7404"
+        },
+        {
+          "municipality": "Panamao",
+          "zip_code": "7402"
+        },
+        {
+          "municipality": "Pandami",
+          "zip_code": "7400"
+        },
+        {
+          "municipality": "Panglima Estino",
+          "zip_code": "7415"
+        },
+        {
+          "municipality": "Pangutaran",
+          "zip_code": "7414"
+        },
+        {
+          "municipality": "Parang",
+          "zip_code": "7408"
+        },
+        {
+          "municipality": "Pata",
+          "zip_code": "7405"
+        },
+        {
+          "municipality": "Patikul",
+          "zip_code": "7401"
+        },
+        {
+          "municipality": "Siasi",
+          "zip_code": "7412"
+        },
+        {
+          "municipality": "Talipao",
+          "zip_code": "7403"
+        },
+        {
+          "municipality": "Tapul",
+          "zip_code": "7410"
+        }
+      ]
+    },
+    {
+      "province": "Tawi-Tawi",
+      "municipalities": [
+        {
+          "municipality": "Bongao",
+          "zip_code": "7500"
+        },
+        {
+          "municipality": "Languyan",
+          "zip_code": "7509"
+        },
+        {
+          "municipality": "Mapun",
+          "zip_code": "7508"
+        },
+        {
+          "municipality": "Panglima Sugala",
+          "zip_code": "7501"
+        },
+        {
+          "municipality": "Sapa-Sapa",
+          "zip_code": "7503"
+        },
+        {
+          "municipality": "Sibutu",
+          "zip_code": "7510"
+        },
+        {
+          "municipality": "Simunul",
+          "zip_code": "7505"
+        },
+        {
+          "municipality": "Sitangkai",
+          "zip_code": "7506"
+        },
+        {
+          "municipality": "South Ubian",
+          "zip_code": "7504"
+        },
+        {
+          "municipality": "Tandubas",
+          "zip_code": "7502"
+        },
+        {
+          "municipality": "Turtle Islands",
+          "zip_code": "7507"
+        }
+      ]
+    }
+  ],
+  "slug": "region-ix-zamboanga-peninsula"
+}

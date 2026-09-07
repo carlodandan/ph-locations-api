@@ -1,0 +1,590 @@
+{
+  "provinces": [
+    {
+      "province": "Bilirian",
+      "municipalities": [
+        {
+          "municipality": "Almeria",
+          "zip_code": "6544"
+        },
+        {
+          "municipality": "Biliran",
+          "zip_code": "6549"
+        },
+        {
+          "municipality": "Cabucgayan",
+          "zip_code": "6550"
+        },
+        {
+          "municipality": "Caibiran",
+          "zip_code": "6548"
+        },
+        {
+          "municipality": "Culaba",
+          "zip_code": "6547"
+        },
+        {
+          "municipality": "Kawayan",
+          "zip_code": "6545"
+        },
+        {
+          "municipality": "Maripipi",
+          "zip_code": "6546"
+        },
+        {
+          "municipality": "Naval",
+          "zip_code": "6543"
+        }
+      ]
+    },
+    {
+      "province": "Eastern Samar",
+      "municipalities": [
+        {
+          "municipality": "Arteche",
+          "zip_code": "6822"
+        },
+        {
+          "municipality": "Balangiga",
+          "zip_code": "6812"
+        },
+        {
+          "municipality": "Balangkayan",
+          "zip_code": "6801"
+        },
+        {
+          "municipality": "Can-avid",
+          "zip_code": "6806"
+        },
+        {
+          "municipality": "Dolores",
+          "zip_code": "6817"
+        },
+        {
+          "municipality": "General MacArthur",
+          "zip_code": "6805"
+        },
+        {
+          "municipality": "Giporlos",
+          "zip_code": "6811"
+        },
+        {
+          "municipality": "Guiuan",
+          "zip_code": "6809"
+        },
+        {
+          "municipality": "Hernani",
+          "zip_code": "6804"
+        },
+        {
+          "municipality": "Jipapad",
+          "zip_code": "6819"
+        },
+        {
+          "municipality": "Lawaan",
+          "zip_code": "6813"
+        },
+        {
+          "municipality": "Llorente",
+          "zip_code": "6803"
+        },
+        {
+          "municipality": "Maslog",
+          "zip_code": "6820"
+        },
+        {
+          "municipality": "Maydolong",
+          "zip_code": "6802"
+        },
+        {
+          "municipality": "Mercedes",
+          "zip_code": "6808"
+        },
+        {
+          "municipality": "Oras",
+          "zip_code": "6818"
+        },
+        {
+          "municipality": "Quinapondan",
+          "zip_code": "6810"
+        },
+        {
+          "municipality": "Salcedo",
+          "zip_code": "6807"
+        },
+        {
+          "municipality": "San Julian",
+          "zip_code": "6814"
+        },
+        {
+          "municipality": "San Policarpo",
+          "zip_code": "6821"
+        },
+        {
+          "municipality": "Sulat",
+          "zip_code": "6815"
+        },
+        {
+          "municipality": "Taft",
+          "zip_code": "6816"
+        }
+      ]
+    },
+    {
+      "province": "Leyte",
+      "cities": [
+        {
+          "city": "Baybay"
+        },
+        {
+          "city": "Ormoc"
+        },
+        {
+          "city": "Tacloban"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Abuyog",
+          "zip_code": "6510"
+        },
+        {
+          "municipality": "Alangalang",
+          "zip_code": "6517"
+        },
+        {
+          "municipality": "Albuera",
+          "zip_code": "6542"
+        },
+        {
+          "municipality": "Babatngon",
+          "zip_code": "6520"
+        },
+        {
+          "municipality": "Barugo",
+          "zip_code": "6519"
+        },
+        {
+          "municipality": "Bato",
+          "zip_code": "6525"
+        },
+        {
+          "municipality": "Burauen",
+          "zip_code": "6516"
+        },
+        {
+          "municipality": "Calubian",
+          "zip_code": "6534"
+        },
+        {
+          "municipality": "Capoocan",
+          "zip_code": "6530"
+        },
+        {
+          "municipality": "Carigara",
+          "zip_code": "6529"
+        },
+        {
+          "municipality": "Dagami",
+          "zip_code": "6515"
+        },
+        {
+          "municipality": "Dulag",
+          "zip_code": "6505"
+        },
+        {
+          "municipality": "Hilongos",
+          "zip_code": "6524"
+        },
+        {
+          "municipality": "Hindang",
+          "zip_code": "6523"
+        },
+        {
+          "municipality": "Inopacan",
+          "zip_code": "6522"
+        },
+        {
+          "municipality": "Isabel",
+          "zip_code": "6539"
+        },
+        {
+          "municipality": "Jaro",
+          "zip_code": "6527"
+        },
+        {
+          "municipality": "Javier",
+          "zip_code": "6511"
+        },
+        {
+          "municipality": "Julita",
+          "zip_code": "6506"
+        },
+        {
+          "municipality": "Kananga",
+          "zip_code": "6531"
+        },
+        {
+          "municipality": "La Paz",
+          "zip_code": "6508"
+        },
+        {
+          "municipality": "Leyte",
+          "zip_code": "6533"
+        },
+        {
+          "municipality": "MacArthur",
+          "zip_code": "6509"
+        },
+        {
+          "municipality": "Mahaplag",
+          "zip_code": "6512"
+        },
+        {
+          "municipality": "Matag-ob",
+          "zip_code": "6532"
+        },
+        {
+          "municipality": "Matalom",
+          "zip_code": "6526"
+        },
+        {
+          "municipality": "Mayorga",
+          "zip_code": "6507"
+        },
+        {
+          "municipality": "Merida",
+          "zip_code": "6540"
+        },
+        {
+          "municipality": "Palo",
+          "zip_code": "6501"
+        },
+        {
+          "municipality": "Palompon",
+          "zip_code": "6538"
+        },
+        {
+          "municipality": "Pastrana",
+          "zip_code": "6514"
+        },
+        {
+          "municipality": "San Isidro",
+          "zip_code": "6535"
+        },
+        {
+          "municipality": "San Miguel",
+          "zip_code": "6518"
+        },
+        {
+          "municipality": "Santa Fe",
+          "zip_code": "6513"
+        },
+        {
+          "municipality": "Tabango",
+          "zip_code": "6536"
+        },
+        {
+          "municipality": "Tabontabon",
+          "zip_code": "6504"
+        },
+        {
+          "municipality": "Tanauan",
+          "zip_code": "6502"
+        },
+        {
+          "municipality": "Tolosa",
+          "zip_code": "6503"
+        },
+        {
+          "municipality": "Tunga",
+          "zip_code": "6528"
+        },
+        {
+          "municipality": "Villaba",
+          "zip_code": "6537"
+        }
+      ]
+    },
+    {
+      "province": "Northern Samar",
+      "municipalities": [
+        {
+          "municipality": "Allen",
+          "zip_code": "6405"
+        },
+        {
+          "municipality": "Biri",
+          "zip_code": "6410"
+        },
+        {
+          "municipality": "Bobon",
+          "zip_code": "6401"
+        },
+        {
+          "municipality": "Capul",
+          "zip_code": "6408"
+        },
+        {
+          "municipality": "Catarman",
+          "zip_code": "6400"
+        },
+        {
+          "municipality": "Catubig",
+          "zip_code": "6418"
+        },
+        {
+          "municipality": "Gamay",
+          "zip_code": "6422"
+        },
+        {
+          "municipality": "Laoang",
+          "zip_code": "6411"
+        },
+        {
+          "municipality": "Lapinig",
+          "zip_code": "6423"
+        },
+        {
+          "municipality": "Las Navas",
+          "zip_code": "6420"
+        },
+        {
+          "municipality": "Lavezares",
+          "zip_code": "6404"
+        },
+        {
+          "municipality": "Lope de Vega",
+          "zip_code": "6403"
+        },
+        {
+          "municipality": "Mapanas",
+          "zip_code": "6412"
+        },
+        {
+          "municipality": "Mondragon",
+          "zip_code": "6417"
+        },
+        {
+          "municipality": "Palapag",
+          "zip_code": "6421"
+        },
+        {
+          "municipality": "Pambujan",
+          "zip_code": "6413"
+        },
+        {
+          "municipality": "Rosario",
+          "zip_code": "6416"
+        },
+        {
+          "municipality": "San Antonio",
+          "zip_code": "6407"
+        },
+        {
+          "municipality": "San Isidro",
+          "zip_code": "6409"
+        },
+        {
+          "municipality": "San Jose",
+          "zip_code": "6402"
+        },
+        {
+          "municipality": "San Roque",
+          "zip_code": "6415"
+        },
+        {
+          "municipality": "San Vicente",
+          "zip_code": "6419"
+        },
+        {
+          "municipality": "Silvino Lobos",
+          "zip_code": "6414"
+        },
+        {
+          "municipality": "Victoria",
+          "zip_code": "6406"
+        }
+      ]
+    },
+    {
+      "province": "Samar",
+      "municipalities": [
+        {
+          "municipality": "Almagro",
+          "zip_code": "6724"
+        },
+        {
+          "municipality": "Basey",
+          "zip_code": "6720"
+        },
+        {
+          "municipality": "Calbiga",
+          "zip_code": "6715"
+        },
+        {
+          "municipality": "Daram",
+          "zip_code": "6722"
+        },
+        {
+          "municipality": "Gandara",
+          "zip_code": "6706"
+        },
+        {
+          "municipality": "Hinabangan",
+          "zip_code": "6713"
+        },
+        {
+          "municipality": "Jiabong",
+          "zip_code": "6701"
+        },
+        {
+          "municipality": "Marabut",
+          "zip_code": "6721"
+        },
+        {
+          "municipality": "Matuguinao",
+          "zip_code": "6708"
+        },
+        {
+          "municipality": "Motiong",
+          "zip_code": "6702"
+        },
+        {
+          "municipality": "Pagsanghan",
+          "zip_code": "6705"
+        },
+        {
+          "municipality": "Paranas",
+          "zip_code": "6703"
+        },
+        {
+          "municipality": "Pinabacdao",
+          "zip_code": "6716"
+        },
+        {
+          "municipality": "San Jorge",
+          "zip_code": "6707"
+        },
+        {
+          "municipality": "San Jose de Buan",
+          "zip_code": "6723"
+        },
+        {
+          "municipality": "San Sebastian",
+          "zip_code": "6714"
+        },
+        {
+          "municipality": "Santa Margarita",
+          "zip_code": "6709"
+        },
+        {
+          "municipality": "Santa Rita",
+          "zip_code": "6718"
+        },
+        {
+          "municipality": "Santo Niño",
+          "zip_code": "6711"
+        },
+        {
+          "municipality": "Tagapul-an",
+          "zip_code": "6712"
+        },
+        {
+          "municipality": "Talalora",
+          "zip_code": "6719"
+        },
+        {
+          "municipality": "Tarangnan",
+          "zip_code": "6704"
+        },
+        {
+          "municipality": "Villareal",
+          "zip_code": "6717"
+        },
+        {
+          "municipality": "Zumarraga",
+          "zip_code": "6725"
+        }
+      ]
+    },
+    {
+      "province": "Southern Leyte",
+      "municipalities": [
+        {
+          "municipality": "Anahawan",
+          "zip_code": "6610"
+        },
+        {
+          "municipality": "Bontoc",
+          "zip_code": "6604"
+        },
+        {
+          "municipality": "Hinunangan",
+          "zip_code": "6608"
+        },
+        {
+          "municipality": "Hinundayan",
+          "zip_code": "6609"
+        },
+        {
+          "municipality": "Libagon",
+          "zip_code": "6615"
+        },
+        {
+          "municipality": "Liloan",
+          "zip_code": "6612"
+        },
+        {
+          "municipality": "Limasawa",
+          "zip_code": "6618"
+        },
+        {
+          "municipality": "Macrohon",
+          "zip_code": "6601"
+        },
+        {
+          "municipality": "Malitbog",
+          "zip_code": "6603"
+        },
+        {
+          "municipality": "Padre Burgos",
+          "zip_code": "6602"
+        },
+        {
+          "municipality": "Pintuyan",
+          "zip_code": "6614"
+        },
+        {
+          "municipality": "Saint Bernard",
+          "zip_code": "6616"
+        },
+        {
+          "municipality": "San Francisco",
+          "zip_code": "6613"
+        },
+        {
+          "municipality": "San Juan",
+          "zip_code": "6611"
+        },
+        {
+          "municipality": "San Ricardo",
+          "zip_code": "6617"
+        },
+        {
+          "municipality": "Silago",
+          "zip_code": "6607"
+        },
+        {
+          "municipality": "Sogod",
+          "zip_code": "6606"
+        },
+        {
+          "municipality": "Tomas Oppus",
+          "zip_code": "6605"
+        }
+      ]
+    }
+  ],
+  "slug": "region-viii-eastern-visayas"
+}

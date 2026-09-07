@@ -1,0 +1,120 @@
+{
+  "provinces": [
+    {
+      "province": "Cotabato",
+      "cities": [
+        {
+          "city": "Kidapawan"
+        },
+        {
+          "city": "Koronadal"
+        }
+      ]
+    },
+    {
+      "province": "South Cotabato",
+      "cities": [
+        {
+          "city": "General Santos"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Banga",
+          "zip_code": "9511"
+        },
+        {
+          "municipality": "Lake Sebu",
+          "zip_code": "9518"
+        },
+        {
+          "municipality": "Norala",
+          "zip_code": "9508"
+        },
+        {
+          "municipality": "Polomolok",
+          "zip_code": "9504"
+        },
+        {
+          "municipality": "Santo Niño",
+          "zip_code": "9509"
+        },
+        {
+          "municipality": "Surallah",
+          "zip_code": "9512"
+        },
+        {
+          "municipality": "T'boli",
+          "zip_code": "9513"
+        },
+        {
+          "municipality": "Tampakan",
+          "zip_code": "9507"
+        },
+        {
+          "municipality": "Tantangan",
+          "zip_code": "9510"
+        },
+        {
+          "municipality": "Tupi",
+          "zip_code": "9505"
+        }
+      ]
+    },
+    {
+      "province": "Sultan Kudarat",
+      "cities": [
+        {
+          "city": "Tacurong"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Bagumbayan",
+          "zip_code": "9810"
+        },
+        {
+          "municipality": "Columbio",
+          "zip_code": "9801"
+        },
+        {
+          "municipality": "Esperanza",
+          "zip_code": "9806"
+        },
+        {
+          "municipality": "Isulan",
+          "zip_code": "9805"
+        },
+        {
+          "municipality": "Kalamansig",
+          "zip_code": "9808"
+        },
+        {
+          "municipality": "Lambayong",
+          "zip_code": "9802"
+        },
+        {
+          "municipality": "Lebak",
+          "zip_code": "9807"
+        },
+        {
+          "municipality": "Lutayan",
+          "zip_code": "9803"
+        },
+        {
+          "municipality": "Palimbang",
+          "zip_code": "9809"
+        },
+        {
+          "municipality": "President Quirino",
+          "zip_code": "9804"
+        },
+        {
+          "municipality": "Senator Ninoy Aquino",
+          "zip_code": "9811"
+        }
+      ]
+    }
+  ],
+  "slug": "region-xii-soccsksargen"
+}

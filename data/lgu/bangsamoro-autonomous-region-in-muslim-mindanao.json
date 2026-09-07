@@ -1,0 +1,369 @@
+{
+  "provinces": [
+    {
+      "province": "Basilan",
+      "municipalities": [
+        {
+          "municipality": "Akbar",
+          "zip_code": "7307"
+        },
+        {
+          "municipality": "Al-barka",
+          "zip_code": "7308"
+        },
+        {
+          "municipality": "Hadji Mohammad Ajul",
+          "zip_code": "7309"
+        },
+        {
+          "municipality": "Hadji Muhtamad",
+          "zip_code": "7310"
+        },
+        {
+          "municipality": "Lantawan",
+          "zip_code": "7301"
+        },
+        {
+          "municipality": "Maluso",
+          "zip_code": "7303"
+        },
+        {
+          "municipality": "Sumisip",
+          "zip_code": "7305"
+        },
+        {
+          "municipality": "Tabuan-Lasa",
+          "zip_code": "7312"
+        },
+        {
+          "municipality": "Tipo-Tipo",
+          "zip_code": "7304"
+        },
+        {
+          "municipality": "Tuburan",
+          "zip_code": "7306"
+        },
+        {
+          "municipality": "Ungkaya Pukan",
+          "zip_code": "7311"
+        }
+      ]
+    },
+    {
+      "province": "Lanao del Sur",
+      "municipalities": [
+        {
+          "municipality": "Amai Manabilang",
+          "zip_code": "9320"
+        },
+        {
+          "municipality": "Bacolod-Kalawi",
+          "zip_code": "9316"
+        },
+        {
+          "municipality": "Balabagan",
+          "zip_code": "9302"
+        },
+        {
+          "municipality": "Balindong",
+          "zip_code": "9318"
+        },
+        {
+          "municipality": "Bayang",
+          "zip_code": "9309"
+        },
+        {
+          "municipality": "Binidayan",
+          "zip_code": "9310"
+        },
+        {
+          "municipality": "Buadiposo-Buntong",
+          "zip_code": "9714"
+        },
+        {
+          "municipality": "Bubong",
+          "zip_code": "9708"
+        },
+        {
+          "municipality": "Butig",
+          "zip_code": "9305"
+        },
+        {
+          "municipality": "Calanogas",
+          "zip_code": "9319"
+        },
+        {
+          "municipality": "Ditsaan-Ramain",
+          "zip_code": "9713"
+        },
+        {
+          "municipality": "Ganassi",
+          "zip_code": "9311"
+        },
+        {
+          "municipality": "Kapai",
+          "zip_code": "9709"
+        },
+        {
+          "municipality": "Kapatagan",
+          "zip_code": "9322"
+        },
+        {
+          "municipality": "Lumba-Bayabao",
+          "zip_code": "9703"
+        },
+        {
+          "municipality": "Lumbaca-Unayan",
+          "zip_code": "9323"
+        },
+        {
+          "municipality": "Lumbatan",
+          "zip_code": "9307"
+        },
+        {
+          "municipality": "Lumbayanague",
+          "zip_code": "9306"
+        },
+        {
+          "municipality": "Madalum",
+          "zip_code": "9315"
+        },
+        {
+          "municipality": "Madamba",
+          "zip_code": "9314"
+        },
+        {
+          "municipality": "Maguing",
+          "zip_code": "9715"
+        },
+        {
+          "municipality": "Malabang",
+          "zip_code": "9300"
+        },
+        {
+          "municipality": "Marantao",
+          "zip_code": "9711"
+        },
+        {
+          "municipality": "Marogong",
+          "zip_code": "9303"
+        },
+        {
+          "municipality": "Masiu",
+          "zip_code": "9706"
+        },
+        {
+          "municipality": "Mulondo",
+          "zip_code": "9702"
+        },
+        {
+          "municipality": "Pagayawan",
+          "zip_code": "9312"
+        },
+        {
+          "municipality": "Piagapo",
+          "zip_code": "9710"
+        },
+        {
+          "municipality": "Picong",
+          "zip_code": "9301"
+        },
+        {
+          "municipality": "Poona Bayabao",
+          "zip_code": "9705"
+        },
+        {
+          "municipality": "Pualas",
+          "zip_code": "9313"
+        },
+        {
+          "municipality": "Saguiaran",
+          "zip_code": "9701"
+        },
+        {
+          "municipality": "Sultan Dumalondong",
+          "zip_code": "9324"
+        },
+        {
+          "municipality": "Tagoloan-II",
+          "zip_code": "9321"
+        },
+        {
+          "municipality": "Tamparan",
+          "zip_code": "9704"
+        },
+        {
+          "municipality": "Taraka",
+          "zip_code": "9712"
+        },
+        {
+          "municipality": "Tubaran",
+          "zip_code": "9304"
+        },
+        {
+          "municipality": "Tugaya",
+          "zip_code": "9317"
+        },
+        {
+          "municipality": "Wao",
+          "zip_code": "9716"
+        }
+      ]
+    },
+    {
+      "province": "Maguindanao del Norte",
+      "municipalities": [
+        {
+          "municipality": "Barira",
+          "zip_code": "9614"
+        },
+        {
+          "municipality": "Buldon",
+          "zip_code": "9615"
+        },
+        {
+          "municipality": "Datu Blah T. Sinsuat",
+          "zip_code": "9623"
+        },
+        {
+          "municipality": "Datu Odin Sinsuat",
+          "zip_code": "9601"
+        },
+        {
+          "municipality": "Kabuntalan",
+          "zip_code": "9606"
+        },
+        {
+          "municipality": "Matanog",
+          "zip_code": "9613"
+        },
+        {
+          "municipality": "Northern Kabuntalan",
+          "zip_code": "9630"
+        },
+        {
+          "municipality": "Parang",
+          "zip_code": "9604"
+        },
+        {
+          "municipality": "Sultan Kudarat",
+          "zip_code": "9605"
+        },
+        {
+          "municipality": "Sultan Mastura",
+          "zip_code": "9636"
+        },
+        {
+          "municipality": "Talitay",
+          "zip_code": "9637"
+        },
+        {
+          "municipality": "Upi",
+          "zip_code": "9602"
+        }
+      ]
+    },
+    {
+      "province": "Maguindanao del Sur",
+      "municipalities": [
+        {
+          "municipality": "Ampatuan",
+          "zip_code": "9609"
+        },
+        {
+          "municipality": "Buluan",
+          "zip_code": "9616"
+        },
+        {
+          "municipality": "Datu Abdullah Sangki",
+          "zip_code": "9621"
+        },
+        {
+          "municipality": "Datu Anggal Midtimbang",
+          "zip_code": "9622"
+        },
+        {
+          "municipality": "Datu Hoffer Ampatuan",
+          "zip_code": "9624"
+        },
+        {
+          "municipality": "Datu Paglas",
+          "zip_code": "9617"
+        },
+        {
+          "municipality": "Datu Piang",
+          "zip_code": "9607"
+        },
+        {
+          "municipality": "Datu Salibo",
+          "zip_code": "9625"
+        },
+        {
+          "municipality": "Datu Saudi Ampatuan",
+          "zip_code": "9626"
+        },
+        {
+          "municipality": "Datu Unsay",
+          "zip_code": "9627"
+        },
+        {
+          "municipality": "Gen. S. K. Pendatun",
+          "zip_code": "9618"
+        },
+        {
+          "municipality": "Guindulungan",
+          "zip_code": "9628"
+        },
+        {
+          "municipality": "Mamasapano",
+          "zip_code": "9629"
+        },
+        {
+          "municipality": "Mangudadatu",
+          "zip_code": "9620"
+        },
+        {
+          "municipality": "Pagagawan",
+          "zip_code": "9631"
+        },
+        {
+          "municipality": "Pagalungan",
+          "zip_code": "9610"
+        },
+        {
+          "municipality": "Paglat",
+          "zip_code": "9632"
+        },
+        {
+          "municipality": "Pandag",
+          "zip_code": "9633"
+        },
+        {
+          "municipality": "Rajah Buayan",
+          "zip_code": "9634"
+        },
+        {
+          "municipality": "Shariff Aguak",
+          "zip_code": "9608"
+        },
+        {
+          "municipality": "Shariff S. Mustapha",
+          "zip_code": "9635"
+        },
+        {
+          "municipality": "South Upi",
+          "zip_code": "9603"
+        },
+        {
+          "municipality": "Sultan sa Barongis",
+          "zip_code": "9611"
+        },
+        {
+          "municipality": "Talayan",
+          "zip_code": "9612"
+        }
+      ]
+    }
+  ],
+  "slug": "bangsamoro-autonomous-region-in-muslim-mindanao"
+}

@@ -1,0 +1,21 @@
+/**
+ * Wrangler configuration for the Philippine Locations API.
+ * See https://developers.cloudflare.com/workers/wrangler/configuration/
+ */
+{
+  "name": "philippine-locations-api",
+  "main": "src/index.ts",
+  "compatibility_date": "2024-09-23",
+  "compatibility_flags": ["nodejs_compat"],
+
+  /**
+   * Environment variables (non-secret).
+   * Override per environment in [[env.<name>]] blocks.
+   */
+  "vars": {
+    // Comma-separated list of allowed CORS origins.
+    // "*" means allow all origins (suitable for development/public APIs).
+    // Example for production: "https://example.com,https://app.example.com"
+    "CORS_ORIGINS": "*"
+  }
+}

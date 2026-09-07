@@ -1,0 +1,314 @@
+{
+  "provinces": [
+    {
+      "province": "MARINDUQUE",
+      "municipalities": [
+        {
+          "municipality": "Boac",
+          "zip_code": "4900"
+        },
+        {
+          "municipality": "Buenavista",
+          "zip_code": "4904"
+        },
+        {
+          "municipality": "Gasan",
+          "zip_code": "4905"
+        },
+        {
+          "municipality": "Mogpog",
+          "zip_code": "4901"
+        },
+        {
+          "municipality": "Santa Cruz",
+          "zip_code": "4902"
+        },
+        {
+          "municipality": "Torrijos",
+          "zip_code": "4903"
+        }
+      ]
+    },
+    {
+      "province": "OCCIDENTAL MINDORO",
+      "municipalities": [
+        {
+          "municipality": "Abra de Ilog",
+          "zip_code": "5108"
+        },
+        {
+          "municipality": "Calintaan",
+          "zip_code": "5102"
+        },
+        {
+          "municipality": "Looc",
+          "zip_code": "5111"
+        },
+        {
+          "municipality": "Lubang",
+          "zip_code": "5109"
+        },
+        {
+          "municipality": "Magsaysay",
+          "zip_code": "5101"
+        },
+        {
+          "municipality": "Mamburao",
+          "zip_code": "5106"
+        },
+        {
+          "municipality": "Paluan",
+          "zip_code": "5107"
+        },
+        {
+          "municipality": "Rizal",
+          "zip_code": "5103"
+        },
+        {
+          "municipality": "Sablayan",
+          "zip_code": "5104"
+        },
+        {
+          "municipality": "San Jose",
+          "zip_code": "5100"
+        },
+        {
+          "municipality": "Santa Cruz",
+          "zip_code": "5105"
+        }
+      ]
+    },
+    {
+      "province": "ORIENTAL MINDORO",
+      "municipalities": [
+        {
+          "municipality": "Baco",
+          "zip_code": "5201"
+        },
+        {
+          "municipality": "Bansud",
+          "zip_code": "5210"
+        },
+        {
+          "municipality": "Bongabong",
+          "zip_code": "5211"
+        },
+        {
+          "municipality": "Bulalacao",
+          "zip_code": "5214"
+        },
+        {
+          "municipality": "Gloria",
+          "zip_code": "5209"
+        },
+        {
+          "municipality": "Mansalay",
+          "zip_code": "5213"
+        },
+        {
+          "municipality": "Naujan",
+          "zip_code": "5204"
+        },
+        {
+          "municipality": "Pinamalayan",
+          "zip_code": "5208"
+        },
+        {
+          "municipality": "Pola",
+          "zip_code": "5206"
+        },
+        {
+          "municipality": "Puerto Galera",
+          "zip_code": "5203"
+        },
+        {
+          "municipality": "Roxas",
+          "zip_code": "5212"
+        },
+        {
+          "municipality": "San Teodoro",
+          "zip_code": "5202"
+        },
+        {
+          "municipality": "Socorro",
+          "zip_code": "5207"
+        },
+        {
+          "municipality": "Victoria",
+          "zip_code": "5205"
+        }
+      ]
+    },
+    {
+      "province": "PALAWAN",
+      "municipalities": [
+        {
+          "municipality": "Aborlan",
+          "zip_code": "5302"
+        },
+        {
+          "municipality": "Agutaya",
+          "zip_code": "5320"
+        },
+        {
+          "municipality": "Araceli",
+          "zip_code": "5311"
+        },
+        {
+          "municipality": "Balabac",
+          "zip_code": "5307"
+        },
+        {
+          "municipality": "Bataraza",
+          "zip_code": "5306"
+        },
+        {
+          "municipality": "Brooke's Point",
+          "zip_code": "5305"
+        },
+        {
+          "municipality": "Busuanga",
+          "zip_code": "5317"
+        },
+        {
+          "municipality": "Cagayancillo",
+          "zip_code": "5321"
+        },
+        {
+          "municipality": "Coron",
+          "zip_code": "5316"
+        },
+        {
+          "municipality": "Culion",
+          "zip_code": "5315"
+        },
+        {
+          "municipality": "Cuyo",
+          "zip_code": "5318"
+        },
+        {
+          "municipality": "Dumaran",
+          "zip_code": "5310"
+        },
+        {
+          "municipality": "El Nido",
+          "zip_code": "5313"
+        },
+        {
+          "municipality": "Kalayaan",
+          "zip_code": "5322"
+        },
+        {
+          "municipality": "Linapacan",
+          "zip_code": "5314"
+        },
+        {
+          "municipality": "Magsaysay",
+          "zip_code": "5319"
+        },
+        {
+          "municipality": "Narra",
+          "zip_code": "5303"
+        },
+        {
+          "municipality": "Quezon",
+          "zip_code": "5304"
+        },
+        {
+          "municipality": "Rizal",
+          "zip_code": "5323"
+        },
+        {
+          "municipality": "Roxas",
+          "zip_code": "5308"
+        },
+        {
+          "municipality": "San Vicente",
+          "zip_code": "5309"
+        },
+        {
+          "municipality": "Sofronio Española",
+          "zip_code": "5324"
+        },
+        {
+          "municipality": "Taytay",
+          "zip_code": "5312"
+        }
+      ]
+    },
+    {
+      "province": "ROMBLON",
+      "municipalities": [
+        {
+          "municipality": "Alcantara",
+          "zip_code": "5509"
+        },
+        {
+          "municipality": "Banton",
+          "zip_code": "5515"
+        },
+        {
+          "municipality": "Cajidiocan",
+          "zip_code": "5512"
+        },
+        {
+          "municipality": "Calatrava",
+          "zip_code": "5503"
+        },
+        {
+          "municipality": "Concepcion",
+          "zip_code": "5516"
+        },
+        {
+          "municipality": "Corcuera",
+          "zip_code": "5514"
+        },
+        {
+          "municipality": "Ferrol",
+          "zip_code": "5506"
+        },
+        {
+          "municipality": "Looc",
+          "zip_code": "5507"
+        },
+        {
+          "municipality": "Magdiwang",
+          "zip_code": "5511"
+        },
+        {
+          "municipality": "Odiongan",
+          "zip_code": "5505"
+        },
+        {
+          "municipality": "Romblon",
+          "zip_code": "5500"
+        },
+        {
+          "municipality": "San Agustin",
+          "zip_code": "5501"
+        },
+        {
+          "municipality": "San Andres",
+          "zip_code": "5504"
+        },
+        {
+          "municipality": "San Fernando",
+          "zip_code": "5513"
+        },
+        {
+          "municipality": "San Jose",
+          "zip_code": "5510"
+        },
+        {
+          "municipality": "Santa Fe",
+          "zip_code": "5508"
+        },
+        {
+          "municipality": "Santa Maria",
+          "zip_code": "5502"
+        }
+      ]
+    }
+  ],
+  "slug": "region-ivb-mimaropa"
+}

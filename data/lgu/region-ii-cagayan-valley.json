@@ -1,0 +1,400 @@
+{
+  "cities": [
+    {
+      "city": "Tuguegarao"
+    },
+    {
+      "city": "Cauayan"
+    },
+    {
+      "city": "Ilagan"
+    },
+    {
+      "city": "Santiago"
+    }
+  ],
+  "provinces": [
+    {
+      "province": "BATANES PROVINCE",
+      "municipalities": [
+        {
+          "municipality": "Basco",
+          "zip_code": "3900"
+        },
+        {
+          "municipality": "Itbayat",
+          "zip_code": "3905"
+        },
+        {
+          "municipality": "Ivana",
+          "zip_code": "3902"
+        },
+        {
+          "municipality": "Mahatao",
+          "zip_code": "3901"
+        },
+        {
+          "municipality": "Sabtang",
+          "zip_code": "3904"
+        },
+        {
+          "municipality": "Uyugan",
+          "zip_code": "3903"
+        }
+      ]
+    },
+    {
+      "province": "CAGAYAN PROVINCE",
+      "municipalities": [
+        {
+          "municipality": "Abulug",
+          "zip_code": "3517"
+        },
+        {
+          "municipality": "Alcala",
+          "zip_code": "3507"
+        },
+        {
+          "municipality": "Allacapan",
+          "zip_code": "3523"
+        },
+        {
+          "municipality": "Amulung",
+          "zip_code": "3505"
+        },
+        {
+          "municipality": "Aparri",
+          "zip_code": "3515"
+        },
+        {
+          "municipality": "Baggao",
+          "zip_code": "3506"
+        },
+        {
+          "municipality": "Ballesteros",
+          "zip_code": "3516"
+        },
+        {
+          "municipality": "Buguey",
+          "zip_code": "3511"
+        },
+        {
+          "municipality": "Calayan",
+          "zip_code": "3520"
+        },
+        {
+          "municipality": "Camalaniugan",
+          "zip_code": "3510"
+        },
+        {
+          "municipality": "Claveria",
+          "zip_code": "3519"
+        },
+        {
+          "municipality": "Enrile",
+          "zip_code": "3501"
+        },
+        {
+          "municipality": "Gattaran",
+          "zip_code": "3508"
+        },
+        {
+          "municipality": "Gonzaga",
+          "zip_code": "3513"
+        },
+        {
+          "municipality": "Iguig",
+          "zip_code": "3504"
+        },
+        {
+          "municipality": "Lal-lo",
+          "zip_code": "3509"
+        },
+        {
+          "municipality": "Lasam",
+          "zip_code": "3524"
+        },
+        {
+          "municipality": "Pamplona",
+          "zip_code": "3522"
+        },
+        {
+          "municipality": "Peñablanca",
+          "zip_code": "3502"
+        },
+        {
+          "municipality": "Piat",
+          "zip_code": "3527"
+        },
+        {
+          "municipality": "Rizal",
+          "zip_code": "3526"
+        },
+        {
+          "municipality": "Sanchez-Mira",
+          "zip_code": "3518"
+        },
+        {
+          "municipality": "Santa Ana",
+          "zip_code": "3514"
+        },
+        {
+          "municipality": "Santa Praxedes",
+          "zip_code": "3521"
+        },
+        {
+          "municipality": "Santa Teresita",
+          "zip_code": "3512"
+        },
+        {
+          "municipality": "Santo Niño",
+          "zip_code": "3525"
+        },
+        {
+          "municipality": "Solana",
+          "zip_code": "3503"
+        },
+        {
+          "municipality": "Tuao",
+          "zip_code": "3528"
+        }
+      ]
+    },
+    {
+      "province": "ISABELA PROVINCE",
+      "municipalities": [
+        {
+          "municipality": "Alicia",
+          "zip_code": "3306"
+        },
+        {
+          "municipality": "Angadanan",
+          "zip_code": "3307"
+        },
+        {
+          "municipality": "Aurora",
+          "zip_code": "3316"
+        },
+        {
+          "municipality": "Benito Soliven",
+          "zip_code": "3331"
+        },
+        {
+          "municipality": "Burgos",
+          "zip_code": "3322"
+        },
+        {
+          "municipality": "Cabagan",
+          "zip_code": "3328"
+        },
+        {
+          "municipality": "Cabatuan",
+          "zip_code": "3315"
+        },
+        {
+          "municipality": "Cordon",
+          "zip_code": "3312"
+        },
+        {
+          "municipality": "Delfin Albano",
+          "zip_code": "3326"
+        },
+        {
+          "municipality": "Dinapigue",
+          "zip_code": "3336"
+        },
+        {
+          "municipality": "Divilacan",
+          "zip_code": "3335"
+        },
+        {
+          "municipality": "Echague",
+          "zip_code": "3309"
+        },
+        {
+          "municipality": "Gamu",
+          "zip_code": "3301"
+        },
+        {
+          "municipality": "Jones",
+          "zip_code": "3313"
+        },
+        {
+          "municipality": "Luna",
+          "zip_code": "3304"
+        },
+        {
+          "municipality": "Maconacon",
+          "zip_code": "3333"
+        },
+        {
+          "municipality": "Mallig",
+          "zip_code": "3323"
+        },
+        {
+          "municipality": "Naguilian",
+          "zip_code": "3302"
+        },
+        {
+          "municipality": "Palanan",
+          "zip_code": "3334"
+        },
+        {
+          "municipality": "Quezon",
+          "zip_code": "3324"
+        },
+        {
+          "municipality": "Quirino",
+          "zip_code": "3321"
+        },
+        {
+          "municipality": "Ramon",
+          "zip_code": "3319"
+        },
+        {
+          "municipality": "Reina Mercedes",
+          "zip_code": "3303"
+        },
+        {
+          "municipality": "Roxas",
+          "zip_code": "3320"
+        },
+        {
+          "municipality": "San Agustin",
+          "zip_code": "3314"
+        },
+        {
+          "municipality": "San Guillermo",
+          "zip_code": "3308"
+        },
+        {
+          "municipality": "San Isidro",
+          "zip_code": "3310"
+        },
+        {
+          "municipality": "San Manuel",
+          "zip_code": "3317"
+        },
+        {
+          "municipality": "San Mariano",
+          "zip_code": "3332"
+        },
+        {
+          "municipality": "San Mateo",
+          "zip_code": "3318"
+        },
+        {
+          "municipality": "San Pablo",
+          "zip_code": "3329"
+        },
+        {
+          "municipality": "Santa Maria",
+          "zip_code": "3330"
+        },
+        {
+          "municipality": "Santo Tomas",
+          "zip_code": "3327"
+        },
+        {
+          "municipality": "Tumauini",
+          "zip_code": "3325"
+        }
+      ]
+    },
+    {
+      "province": "NUEVA VIZCAYA PROVINCE",
+      "municipalities": [
+        {
+          "municipality": "Alfonso Castañeda",
+          "zip_code": "3714"
+        },
+        {
+          "municipality": "Ambaguio",
+          "zip_code": "3701"
+        },
+        {
+          "municipality": "Aritao",
+          "zip_code": "3704"
+        },
+        {
+          "municipality": "Bagabag",
+          "zip_code": "3711"
+        },
+        {
+          "municipality": "Bambang",
+          "zip_code": "3702"
+        },
+        {
+          "municipality": "Bayombong",
+          "zip_code": "3700"
+        },
+        {
+          "municipality": "Diadi",
+          "zip_code": "3712"
+        },
+        {
+          "municipality": "Dupax del Norte",
+          "zip_code": "3706"
+        },
+        {
+          "municipality": "Dupax del Sur",
+          "zip_code": "3707"
+        },
+        {
+          "municipality": "Kasibu",
+          "zip_code": "3703"
+        },
+        {
+          "municipality": "Kayapa",
+          "zip_code": "3708"
+        },
+        {
+          "municipality": "Quezon",
+          "zip_code": "3713"
+        },
+        {
+          "municipality": "Santa Fe",
+          "zip_code": "3705"
+        },
+        {
+          "municipality": "Solano",
+          "zip_code": "3709"
+        },
+        {
+          "municipality": "Villaverde",
+          "zip_code": "3710"
+        }
+      ]
+    },
+    {
+      "province": "QUIRINO PROVINCE",
+      "municipalities": [
+        {
+          "municipality": "Aglipay",
+          "zip_code": "3403"
+        },
+        {
+          "municipality": "Cabarroguis",
+          "zip_code": "3400"
+        },
+        {
+          "municipality": "Diffun",
+          "zip_code": "3401"
+        },
+        {
+          "municipality": "Maddela",
+          "zip_code": "3404"
+        },
+        {
+          "municipality": "Nagtipunan",
+          "zip_code": "3405"
+        },
+        {
+          "municipality": "Saguday",
+          "zip_code": "3402"
+        }
+      ]
+    }
+  ],
+  "slug": "region-ii-cagayan-valley"
+}

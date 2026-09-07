@@ -1,0 +1,314 @@
+{
+  "provinces": [
+    {
+      "province": "Agusan del Norte",
+      "cities": [
+        {
+          "city": "Butuan"
+        },
+        {
+          "city": "Cabadbaran"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Buenavista",
+          "zip_code": "8601"
+        },
+        {
+          "municipality": "Carmen",
+          "zip_code": "8603"
+        },
+        {
+          "municipality": "Jabonga",
+          "zip_code": "8607"
+        },
+        {
+          "municipality": "Kitcharao",
+          "zip_code": "8609"
+        },
+        {
+          "municipality": "Las Nieves",
+          "zip_code": "8610"
+        },
+        {
+          "municipality": "Magallanes",
+          "zip_code": "8604"
+        },
+        {
+          "municipality": "Nasipit",
+          "zip_code": "8602"
+        },
+        {
+          "municipality": "Remedios T. Romualdez",
+          "zip_code": "8611"
+        },
+        {
+          "municipality": "Santiago",
+          "zip_code": "8608"
+        },
+        {
+          "municipality": "Tubay",
+          "zip_code": "8606"
+        }
+      ]
+    },
+    {
+      "province": "Agusan del Sur",
+      "municipalities": [
+        {
+          "municipality": "Banawan",
+          "zip_code": "8506"
+        },
+        {
+          "municipality": "Bayugan"
+        },
+        {
+          "municipality": "Esperanza",
+          "zip_code": "8513"
+        },
+        {
+          "municipality": "La Paz",
+          "zip_code": "8508"
+        },
+        {
+          "municipality": "Loreto",
+          "zip_code": "8507"
+        },
+        {
+          "municipality": "Prosperidad",
+          "zip_code": "8500"
+        },
+        {
+          "municipality": "Rosario",
+          "zip_code": "8504"
+        },
+        {
+          "municipality": "San Francisco",
+          "zip_code": "8501"
+        },
+        {
+          "municipality": "San Luis",
+          "zip_code": "8511"
+        },
+        {
+          "municipality": "Santa Josefa",
+          "zip_code": "8512"
+        },
+        {
+          "municipality": "Sibagat",
+          "zip_code": "8503"
+        },
+        {
+          "municipality": "Talacogon",
+          "zip_code": "8510"
+        },
+        {
+          "municipality": "Trento",
+          "zip_code": "8505"
+        },
+        {
+          "municipality": "Veruela",
+          "zip_code": "8509"
+        }
+      ]
+    },
+    {
+      "province": "Dinagat Islands",
+      "municipalities": [
+        {
+          "municipality": "Basilisa",
+          "zip_code": "8413"
+        },
+        {
+          "municipality": "Cagdianao",
+          "zip_code": "8411"
+        },
+        {
+          "municipality": "Dinagat",
+          "zip_code": "8412"
+        },
+        {
+          "municipality": "Libjo",
+          "zip_code": "8414"
+        },
+        {
+          "municipality": "Loreto",
+          "zip_code": "8415"
+        },
+        {
+          "municipality": "San Jose",
+          "zip_code": "8427"
+        },
+        {
+          "municipality": "Tubajon",
+          "zip_code": "8426"
+        }
+      ]
+    },
+    {
+      "province": "Surigao del Norte",
+      "cities": [
+        {
+          "city": "Surigao"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Alegria",
+          "zip_code": "8425"
+        },
+        {
+          "municipality": "Bacuag",
+          "zip_code": "8408"
+        },
+        {
+          "municipality": "Burgos",
+          "zip_code": "8424"
+        },
+        {
+          "municipality": "Claver",
+          "zip_code": "8410"
+        },
+        {
+          "municipality": "Dapa",
+          "zip_code": "8417"
+        },
+        {
+          "municipality": "Del Carmen",
+          "zip_code": "8418"
+        },
+        {
+          "municipality": "General Luna",
+          "zip_code": "8419"
+        },
+        {
+          "municipality": "Gigaquit",
+          "zip_code": "8409"
+        },
+        {
+          "municipality": "Mainit",
+          "zip_code": "8407"
+        },
+        {
+          "municipality": "Malimono",
+          "zip_code": "8402"
+        },
+        {
+          "municipality": "Pilar",
+          "zip_code": "8420"
+        },
+        {
+          "municipality": "Placer",
+          "zip_code": "8405"
+        },
+        {
+          "municipality": "San Benito",
+          "zip_code": "8423"
+        },
+        {
+          "municipality": "San Francisco",
+          "zip_code": "8401"
+        },
+        {
+          "municipality": "San Isidro",
+          "zip_code": "8421"
+        },
+        {
+          "municipality": "Santa Monica",
+          "zip_code": "8422"
+        },
+        {
+          "municipality": "Sison",
+          "zip_code": "8404"
+        },
+        {
+          "municipality": "Socorro",
+          "zip_code": "8416"
+        },
+        {
+          "municipality": "Tagana-an",
+          "zip_code": "8403"
+        },
+        {
+          "municipality": "Tubod",
+          "zip_code": "8406"
+        }
+      ]
+    },
+    {
+      "province": "Surigao del Sur",
+      "municipalities": [
+        {
+          "municipality": "Barobo",
+          "zip_code": "8309"
+        },
+        {
+          "municipality": "Bayabas",
+          "zip_code": "8303"
+        },
+        {
+          "municipality": "Cagwait",
+          "zip_code": "8304"
+        },
+        {
+          "municipality": "Cantilan",
+          "zip_code": "8317"
+        },
+        {
+          "municipality": "Carmen",
+          "zip_code": "8315"
+        },
+        {
+          "municipality": "Carrascal",
+          "zip_code": "8318"
+        },
+        {
+          "municipality": "Cortes",
+          "zip_code": "8313"
+        },
+        {
+          "municipality": "Hinatuan",
+          "zip_code": "8310"
+        },
+        {
+          "municipality": "Lanuza",
+          "zip_code": "8314"
+        },
+        {
+          "municipality": "Lianga",
+          "zip_code": "8307"
+        },
+        {
+          "municipality": "Lingig",
+          "zip_code": "8312"
+        },
+        {
+          "municipality": "Madrid",
+          "zip_code": "8316"
+        },
+        {
+          "municipality": "Marihatag",
+          "zip_code": "8306"
+        },
+        {
+          "municipality": "San Agustin",
+          "zip_code": "8305"
+        },
+        {
+          "municipality": "San Miguel",
+          "zip_code": "8301"
+        },
+        {
+          "municipality": "Tagbina",
+          "zip_code": "8308"
+        },
+        {
+          "municipality": "Tago",
+          "zip_code": "8302"
+        }
+      ]
+    }
+  ],
+  "slug": "region-xiiicaraga"
+}

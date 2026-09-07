@@ -1,0 +1,257 @@
+{
+  "provinces": [
+    {
+      "province": "Negros Occidental",
+      "cities": [
+        {
+          "city": "Bacolod"
+        },
+        {
+          "city": "Bago"
+        },
+        {
+          "city": "Cadiz"
+        },
+        {
+          "city": "Escalante"
+        },
+        {
+          "city": "Himamaylan"
+        },
+        {
+          "city": "Kabankalan"
+        },
+        {
+          "city": "La Carlota"
+        },
+        {
+          "city": "Sagay"
+        },
+        {
+          "city": "San Carlos"
+        },
+        {
+          "city": "Silay"
+        },
+        {
+          "city": "Sipalay"
+        },
+        {
+          "city": "Talisay"
+        },
+        {
+          "city": "Victorias"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Binalbagan",
+          "zip_code": "6107"
+        },
+        {
+          "municipality": "Calatrava",
+          "zip_code": "6126"
+        },
+        {
+          "municipality": "Candoni",
+          "zip_code": "6110"
+        },
+        {
+          "municipality": "Cauayan",
+          "zip_code": "6112"
+        },
+        {
+          "municipality": "Enrique B. Magalona",
+          "zip_code": "6118"
+        },
+        {
+          "municipality": "Hinigaran",
+          "zip_code": "6106"
+        },
+        {
+          "municipality": "Hinoba-an",
+          "zip_code": "6114"
+        },
+        {
+          "municipality": "Ilog",
+          "zip_code": "6109"
+        },
+        {
+          "municipality": "Isabela",
+          "zip_code": "6128"
+        },
+        {
+          "municipality": "La Castellana",
+          "zip_code": "6131"
+        },
+        {
+          "municipality": "Manapla",
+          "zip_code": "6120"
+        },
+        {
+          "municipality": "Moises Padilla",
+          "zip_code": "6132"
+        },
+        {
+          "municipality": "Murcia",
+          "zip_code": "6129"
+        },
+        {
+          "municipality": "Pontevedra",
+          "zip_code": "6105"
+        },
+        {
+          "municipality": "Pulupandan",
+          "zip_code": "6102"
+        },
+        {
+          "municipality": "Salvador Benedicto",
+          "zip_code": "6117"
+        },
+        {
+          "municipality": "San Enrique",
+          "zip_code": "6104"
+        },
+        {
+          "municipality": "Toboso",
+          "zip_code": "6125"
+        },
+        {
+          "municipality": "Valladolid",
+          "zip_code": "6103"
+        }
+      ]
+    },
+    {
+      "province": "Negros Oriental",
+      "cities": [
+        {
+          "city": "Bais"
+        },
+        {
+          "city": "Bayawan"
+        },
+        {
+          "city": "Canlaon"
+        },
+        {
+          "city": "Dumaguete"
+        },
+        {
+          "city": "Guihulngan"
+        },
+        {
+          "city": "Tanjay"
+        }
+      ],
+      "municipalities": [
+        {
+          "municipality": "Amlan",
+          "zip_code": "6203"
+        },
+        {
+          "municipality": "Ayungon",
+          "zip_code": "6210"
+        },
+        {
+          "municipality": "Bacong",
+          "zip_code": "6216"
+        },
+        {
+          "municipality": "Basay",
+          "zip_code": "6222"
+        },
+        {
+          "municipality": "Bindoy",
+          "zip_code": "6209"
+        },
+        {
+          "municipality": "Dauin",
+          "zip_code": "6217"
+        },
+        {
+          "municipality": "Jimalalud",
+          "zip_code": "6212"
+        },
+        {
+          "municipality": "La Libertad",
+          "zip_code": "6213"
+        },
+        {
+          "municipality": "Mabinay",
+          "zip_code": "6207"
+        },
+        {
+          "municipality": "Manjuyod",
+          "zip_code": "6208"
+        },
+        {
+          "municipality": "Pamplona",
+          "zip_code": "6205"
+        },
+        {
+          "municipality": "San Jose",
+          "zip_code": "6202"
+        },
+        {
+          "municipality": "Santa Catalina",
+          "zip_code": "6220"
+        },
+        {
+          "municipality": "Siaton",
+          "zip_code": "6219"
+        },
+        {
+          "municipality": "Sibulan",
+          "zip_code": "6201"
+        },
+        {
+          "municipality": "Tayasan",
+          "zip_code": "6211"
+        },
+        {
+          "municipality": "Valencia",
+          "zip_code": "6215"
+        },
+        {
+          "municipality": "Vallehermoso",
+          "zip_code": "6224"
+        },
+        {
+          "municipality": "Zamboanguita",
+          "zip_code": "6218"
+        }
+      ]
+    },
+    {
+      "province": "SIQUIJOR PROVINCE",
+      "municipalities": [
+        {
+          "municipality": "Enrique Villanueva",
+          "zip_code": "6230"
+        },
+        {
+          "municipality": "Larena",
+          "zip_code": "6226"
+        },
+        {
+          "municipality": "Lazi",
+          "zip_code": "6228"
+        },
+        {
+          "municipality": "Maria",
+          "zip_code": "6229"
+        },
+        {
+          "municipality": "San Juan",
+          "zip_code": "6227"
+        },
+        {
+          "municipality": "Siquijor",
+          "zip_code": "6225"
+        }
+      ]
+    }
+  ],
+  "slug": "negros-island-region"
+}

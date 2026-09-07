@@ -1,0 +1,75 @@
+{
+  "cities": [
+    {
+      "city": "Caloocan",
+      "zip_code": "1400-1413"
+    },
+    {
+      "city": "Las Piñas",
+      "zip_code": "1740-1750"
+    },
+    {
+      "city": "Makati",
+      "zip_code": "1200-1235"
+    },
+    {
+      "city": "Malabon",
+      "zip_code": "1470-1475"
+    },
+    {
+      "city": "Mandaluyong",
+      "zip_code": "1550-1556"
+    },
+    {
+      "city": "Manila",
+      "zip_code": "1000-1018"
+    },
+    {
+      "city": "Marikina",
+      "zip_code": "1800-1811"
+    },
+    {
+      "city": "Muntinlupa",
+      "zip_code": "1770-1799"
+    },
+    {
+      "city": "Navotas",
+      "zip_code": "1485-1489"
+    },
+    {
+      "city": "Parañaque",
+      "zip_code": "1700-1720"
+    },
+    {
+      "city": "Pasay",
+      "zip_code": "1300-1309"
+    },
+    {
+      "city": "Pasig",
+      "zip_code": "1600-1612"
+    },
+    {
+      "city": "Quezon City",
+      "zip_code": "1100-1138"
+    },
+    {
+      "city": "San Juan",
+      "zip_code": "1500-1501"
+    },
+    {
+      "city": "Taguig",
+      "zip_code": "1630-1638"
+    },
+    {
+      "city": "Valenzuela",
+      "zip_code": "1440-1448"
+    }
+  ],
+  "municipalities": [
+    {
+      "municipality": "Pateros",
+      "zip_code": "1620-1622"
+    }
+  ],
+  "slug": "national-capital-region"
+}
