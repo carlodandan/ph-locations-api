@@ -92,11 +92,11 @@ Errors return a consistent JSON payload along with appropriate HTTP status codes
 ### Setup & Run
 1. Install dependencies:
 ```
-   pnpm install
+pnpm install
 ```
 2. Start the local development server (Wrangler/Miniflare):
 ```
-   pnpm dev
+pnpm dev
 ```
 
 ### Scripts
